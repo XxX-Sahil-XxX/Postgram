@@ -52,4 +52,14 @@ Reduce client-side overhead with server-side form handling.
 ⚡ Optimistic Updates:
 Deliver instant feedback to user actions for a smoother experience.
 
-Live at: https://postgram-two.vercel.app/
+Check out the live version of the project here:- https://postgram-two.vercel.app/
+
+Setup .env file:-
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=...
+
+CLERK_SECRET_KEY=...
+
+DATABASE_URL=...
+
+UPLOADTHING_TOKEN=...
